@@ -1,3 +1,4 @@
+![](JAVA 交流群群二维码.png)
 # 开发环境
 JDK 10+
 Maven 3.5+
@@ -10,3 +11,7 @@ Maven 3.5+
 
 # 项目调试
 选择WebApplication文件，右键运行Main方法；
+
+# 交流群
+<img src="JAVA 交流群群二维码.png">
+668214636
